@@ -1,0 +1,10 @@
+id,loginId,password,role,name,email,studentId,teacherId,wardIds
+u1,admin1,admin123,admin,Admin User,admin@vsvps.edu,,,
+u2,teacher1,teach123,teacher,Mrs. Sunita Sharma,sunita@vsvps.edu,,t1,
+u3,accountant1,acc123,accountant,Mr. Rakesh Verma,rakesh@vsvps.edu,,,
+u4,parent1,parent123,parent,Mr. Anil Kumar,anil@example.com,,,s1
+u5,student1,stud123,student,Aarav Kumar,aarav@example.com,s1,,
+u_1109_rs,pj,123,accountant,pj,,,,
+u_1001_0,po,123,teacher,po,,,t13,
+u_1002_232s,pi,123,parent,pi,,,,
+u_1004_c9o,pl,123,student,pl,,s6,,

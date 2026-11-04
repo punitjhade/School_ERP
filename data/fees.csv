@@ -1,0 +1,3 @@
+id,studentId,studentName,className,head,term,amount,dueDate,status,paidDate
+fee_1094_1my8,s1,Aarav Kumar,6,Tuition Fee,Q1,8000,2026-08-02,Paid,2026-08-12
+fee_1095_rjo,s82,Priya Shah,6,Tuition Fee,Q1,8000,2026-08-02,Paid,2026-08-04

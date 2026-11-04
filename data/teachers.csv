@@ -1,0 +1,51 @@
+id,name,empCode,designation,subject,phone,email,qualification,joiningDate,staffType,canMarkAttendance,canEnterMarks,canManageFees
+t1,Mrs. Sunita Sharma,EMP001,PGT English,English,9876511001,sunita@vsvps.edu,"M.A. English, B.Ed",2018-06-01,Teaching,true,true,false
+t2,Mr. Ramesh Iyer,EMP002,TGT Mathematics,Mathematics,9876511002,ramesh@vsvps.edu,"M.Sc. Mathematics, B.Ed",2019-06-01,Teaching,true,true,false
+t3,Ms. Pooja Nair,EMP003,TGT Science,Science,9876511003,pooja@vsvps.edu,"M.Sc. Chemistry, B.Ed",2020-06-01,Teaching,true,true,false
+t4,Mr. Rudra Rao,EMP004,PRT English,English,9876512004,rudra.rao4@vsvps.edu,"M.A./M.Sc. English, B.Ed",2014-06-01,Teaching,true,true,false
+t5,Ms. Prisha Gupta,EMP005,TGT Hindi,Hindi,9876512005,prisha.gupta5@vsvps.edu,"M.A./M.Sc. Hindi, B.Ed",2015-06-01,Teaching,true,true,false
+t6,Mr. Aarush Reddy,EMP006,PGT Mathematics,Mathematics,9876512006,aarush.reddy6@vsvps.edu,"M.A./M.Sc. Mathematics, B.Ed",2016-06-01,Teaching,true,true,false
+t7,Ms. Kavya Mehta,EMP007,PRT Science,Science,9876512007,kavya.mehta7@vsvps.edu,"M.A./M.Sc. Science, B.Ed",2017-06-01,Teaching,true,true,false
+t8,Mr. Om Nair,EMP008,TGT Social Studies,Social Studies,9876512008,om.nair8@vsvps.edu,"M.A./M.Sc. Social Studies, B.Ed",2018-06-01,Teaching,true,true,false
+t9,Ms. Nisha Iyer,EMP009,PGT Sanskrit,Sanskrit,9876512009,nisha.iyer9@vsvps.edu,"M.A./M.Sc. Sanskrit, B.Ed",2019-06-01,Teaching,true,true,false
+t10,Mr. Arnav Joshi,EMP010,PRT Computer Science,Computer Science,9876512010,arnav.joshi10@vsvps.edu,"M.A./M.Sc. Computer Science, B.Ed",2020-06-01,Teaching,true,true,false
+t11,Ms. Divya Chauhan,EMP011,TGT Physical Education,Physical Education,9876512011,divya.chauhan11@vsvps.edu,"M.A./M.Sc. Physical Education, B.Ed",2021-06-01,Teaching,true,true,false
+t12,Mr. Sai Malhotra,EMP012,PGT Art & Craft,Art & Craft,9876512012,sai.malhotra12@vsvps.edu,"M.A./M.Sc. Art & Craft, B.Ed",2022-06-01,Teaching,true,true,false
+t13,Ms. Pooja Kapoor,EMP013,PRT Music,Music,9876512013,pooja.kapoor13@vsvps.edu,"M.A./M.Sc. Music, B.Ed",2023-06-01,Teaching,true,true,false
+t14,Mr. Nikhil Bansal,EMP014,TGT Physics,Physics,9876512014,nikhil.bansal14@vsvps.edu,"M.A./M.Sc. Physics, B.Ed",2024-06-01,Teaching,true,true,false
+t15,Ms. Simran Agarwal,EMP015,PGT Chemistry,Chemistry,9876512015,simran.agarwal15@vsvps.edu,"M.A./M.Sc. Chemistry, B.Ed",2014-06-01,Teaching,true,true,false
+t16,Mr. Siddharth Yadav,EMP016,PRT Biology,Biology,9876512016,siddharth.yadav16@vsvps.edu,"M.A./M.Sc. Biology, B.Ed",2015-06-01,Teaching,true,true,false
+t17,Ms. Khushi Chowdhury,EMP017,TGT Commerce,Commerce,9876512017,khushi.chowdhury17@vsvps.edu,"M.A./M.Sc. Commerce, B.Ed",2016-06-01,Teaching,true,true,false
+t18,Mr. Vedant Pillai,EMP018,PGT Economics,Economics,9876512018,vedant.pillai18@vsvps.edu,"M.A./M.Sc. Economics, B.Ed",2017-06-01,Teaching,true,true,false
+t19,Ms. Diya Desai,EMP019,PRT Political Science,Political Science,9876512019,diya.desai19@vsvps.edu,"M.A./M.Sc. Political Science, B.Ed",2018-06-01,Teaching,true,true,false
+t20,Mr. Vihaan Shah,EMP020,TGT Environmental Science,Environmental Science,9876512020,vihaan.shah20@vsvps.edu,"M.A./M.Sc. Environmental Science, B.Ed",2019-06-01,Teaching,true,true,false
+t21,Ms. Ishita Trivedi,EMP021,PGT English,English,9876512021,ishita.trivedi21@vsvps.edu,"M.A./M.Sc. English, B.Ed",2020-06-01,Teaching,true,true,false
+t22,Mr. Vivaan Kulkarni,EMP022,PRT Hindi,Hindi,9876512022,vivaan.kulkarni22@vsvps.edu,"M.A./M.Sc. Hindi, B.Ed",2021-06-01,Teaching,true,true,false
+t23,Ms. Myra Bhatt,EMP023,TGT Mathematics,Mathematics,9876512023,myra.bhatt23@vsvps.edu,"M.A./M.Sc. Mathematics, B.Ed",2022-06-01,Teaching,true,true,false
+t24,Mr. Reyansh Menon,EMP024,PGT Science,Science,9876512024,reyansh.menon24@vsvps.edu,"M.A./M.Sc. Science, B.Ed",2023-06-01,Teaching,true,true,false
+t25,Ms. Kiara Saxena,EMP025,PRT Social Studies,Social Studies,9876512025,kiara.saxena25@vsvps.edu,"M.A./M.Sc. Social Studies, B.Ed",2024-06-01,Teaching,true,true,false
+t26,Mr. Ayaan Tiwari,EMP026,TGT Sanskrit,Sanskrit,9876512026,ayaan.tiwari26@vsvps.edu,"M.A./M.Sc. Sanskrit, B.Ed",2014-06-01,Teaching,true,true,false
+t27,Ms. Riya Mishra,EMP027,PGT Computer Science,Computer Science,9876512027,riya.mishra27@vsvps.edu,"M.A./M.Sc. Computer Science, B.Ed",2015-06-01,Teaching,true,true,false
+t28,Mr. Ishaan Pandey,EMP028,PRT Physical Education,Physical Education,9876512028,ishaan.pandey28@vsvps.edu,"M.A./M.Sc. Physical Education, B.Ed",2016-06-01,Teaching,true,true,false
+t29,Ms. Pari Kumar,EMP029,TGT Art & Craft,Art & Craft,9876512029,pari.kumar29@vsvps.edu,"M.A./M.Sc. Art & Craft, B.Ed",2017-06-01,Teaching,true,true,false
+t30,Mr. Karan Sharma,EMP030,PGT Music,Music,9876512030,karan.sharma30@vsvps.edu,"M.A./M.Sc. Music, B.Ed",2018-06-01,Teaching,true,true,false
+t31,Ms. Tara Patel,EMP031,PRT Physics,Physics,9876512031,tara.patel31@vsvps.edu,"M.A./M.Sc. Physics, B.Ed",2019-06-01,Teaching,true,true,false
+t32,Mr. Yash Singh,EMP032,TGT Chemistry,Chemistry,9876512032,yash.singh32@vsvps.edu,"M.A./M.Sc. Chemistry, B.Ed",2020-06-01,Teaching,true,true,false
+t33,Ms. Ira Verma,EMP033,Vice Principal,,9876512033,ira.verma33@vsvps.edu,"M.Ed, 15+ yrs experience",2021-06-01,Non-Teaching,false,false,false
+t34,Mr. Rudra Rao,EMP034,Office Superintendent,,9876512034,rudra.rao34@vsvps.edu,Graduate,2022-06-01,Non-Teaching,false,false,true
+t35,Ms. Prisha Gupta,EMP035,Accountant,,9876512035,prisha.gupta35@vsvps.edu,Graduate,2023-06-01,Non-Teaching,false,false,true
+t36,Mr. Aarush Reddy,EMP036,Librarian,,9876512036,aarush.reddy36@vsvps.edu,Graduate,2024-06-01,Non-Teaching,false,false,false
+t37,Ms. Kavya Mehta,EMP037,Lab Assistant,,9876512037,kavya.mehta37@vsvps.edu,Graduate,2014-06-01,Non-Teaching,false,false,false
+t38,Mr. Om Nair,EMP038,Receptionist,,9876512038,om.nair38@vsvps.edu,Graduate,2015-06-01,Non-Teaching,false,false,false
+t39,Ms. Nisha Iyer,EMP039,Peon,,9876512039,nisha.iyer39@vsvps.edu,Graduate,2016-06-01,Non-Teaching,false,false,false
+t40,Mr. Arnav Joshi,EMP040,Security Guard,,9876512040,arnav.joshi40@vsvps.edu,Graduate,2017-06-01,Non-Teaching,false,false,false
+t41,Ms. Divya Chauhan,EMP041,Bus Driver,,9876512041,divya.chauhan41@vsvps.edu,Graduate,2018-06-01,Non-Teaching,false,false,false
+t42,Mr. Sai Malhotra,EMP042,Sports Coach,,9876512042,sai.malhotra42@vsvps.edu,Graduate,2019-06-01,Non-Teaching,false,false,false
+t43,Ms. Pooja Kapoor,EMP043,School Counselor,,9876512043,pooja.kapoor43@vsvps.edu,Graduate,2020-06-01,Non-Teaching,false,false,false
+t44,Mr. Nikhil Bansal,EMP044,School Nurse,,9876512044,nikhil.bansal44@vsvps.edu,Graduate,2021-06-01,Non-Teaching,false,false,false
+t45,Ms. Simran Agarwal,EMP045,IT Support Staff,,9876512045,simran.agarwal45@vsvps.edu,Graduate,2022-06-01,Non-Teaching,false,false,false
+t46,Mr. Siddharth Yadav,EMP046,Gardener,,9876512046,siddharth.yadav46@vsvps.edu,Graduate,2023-06-01,Non-Teaching,false,false,false
+t47,Ms. Khushi Chowdhury,EMP047,Housekeeping Staff,,9876512047,khushi.chowdhury47@vsvps.edu,Graduate,2024-06-01,Non-Teaching,false,false,false
+t48,Mr. Vedant Pillai,EMP048,Store Keeper,,9876512048,vedant.pillai48@vsvps.edu,Graduate,2014-06-01,Non-Teaching,false,false,false
+t49,Ms. Diya Desai,EMP049,Admissions Coordinator,,9876512049,diya.desai49@vsvps.edu,Graduate,2015-06-01,Non-Teaching,false,false,false
+t50,Mr. Vihaan Shah,EMP050,Vice Principal,,9876512050,vihaan.shah50@vsvps.edu,"M.Ed, 15+ yrs experience",2016-06-01,Non-Teaching,false,false,false

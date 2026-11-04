@@ -1,0 +1,11 @@
+id,studentId,studentName,className,section,date,status
+att_1001_1cx4,s2,Aarav Kumar,Nursery,A,2026-11-04,Absent
+att_1002_n84,s3,Ananya Sharma,Nursery,A,2026-11-04,Present
+att_1003_4bk,s4,Aditya Patel,Nursery,A,2026-11-04,Present
+att_1004_184w,s5,Anaya Singh,Nursery,A,2026-11-04,Present
+att_1005_ccg,s6,Arjun Verma,Nursery,A,2026-11-04,Present
+att_1006_1cgg,s7,Aadhya Rao,Nursery,B,2026-11-04,Present
+att_1007_6v8,s8,Kabir Gupta,Nursery,B,2026-11-04,Absent
+att_1008_144g,s9,Saanvi Reddy,Nursery,B,2026-11-04,Present
+att_1009_93s,s10,Krishna Mehta,Nursery,B,2026-11-04,Present
+att_1010_19ak,s11,Navya Nair,Nursery,B,2026-11-04,Present

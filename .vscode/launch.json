@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run VSVPS Connect",
+      "request": "launch",
+      "mainClass": "vsvps.Main",
+      "projectName": "vsvps-java",
+      "args": "8080",
+      "vmArgs": ""
+    }
+  ]
+}

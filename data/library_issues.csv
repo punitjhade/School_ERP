@@ -1,0 +1,2 @@
+id,bookId,bookTitle,studentId,studentName,issueDate,dueDate,status,returnDate
+li_1101_1oc8,bk1,NCERT Mathematics VI,s1,Aarav Kumar,2026-08-02,2026-08-16,Issued,
